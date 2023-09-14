@@ -3,7 +3,8 @@ import re
 import csv
 
 
-url = "https://geonode.com/free-proxy-list"  
+url = "https://spys.one/"  
+>>>>>>> my-new-branch
 
 
 response = requests.get(url)
