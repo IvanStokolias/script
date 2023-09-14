@@ -4,7 +4,7 @@ import csv
 
 
 url = "https://spys.one/"  
->>>>>>> my-new-branch
+
 
 
 response = requests.get(url)
