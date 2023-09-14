@@ -3,7 +3,7 @@ import re
 import csv
 
 
-url = "https://free-proxy-list.net/"  
+url = "https://geonode.com/free-proxy-list"  
 
 
 response = requests.get(url)
