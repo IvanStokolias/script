@@ -3,7 +3,7 @@ import re
 import csv
 
 
-url = "https://spys.one/"  
+url = "https://free-proxy.com"  
 
 
 response = requests.get(url)
